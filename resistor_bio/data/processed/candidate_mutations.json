@@ -1,0 +1,6842 @@
+[
+  {
+    "mutation": "S3A",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "A"
+  },
+  {
+    "mutation": "S3C",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "C"
+  },
+  {
+    "mutation": "S3D",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "D"
+  },
+  {
+    "mutation": "S3E",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "E"
+  },
+  {
+    "mutation": "S3F",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "F"
+  },
+  {
+    "mutation": "S3G",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "G"
+  },
+  {
+    "mutation": "S3H",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "H"
+  },
+  {
+    "mutation": "S3I",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "I"
+  },
+  {
+    "mutation": "S3K",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "K"
+  },
+  {
+    "mutation": "S3L",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "L"
+  },
+  {
+    "mutation": "S3M",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "M"
+  },
+  {
+    "mutation": "S3N",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "N"
+  },
+  {
+    "mutation": "S3P",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "P"
+  },
+  {
+    "mutation": "S3Q",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "S3R",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "R"
+  },
+  {
+    "mutation": "S3T",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "T"
+  },
+  {
+    "mutation": "S3V",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "V"
+  },
+  {
+    "mutation": "S3W",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "W"
+  },
+  {
+    "mutation": "S3Y",
+    "position": 3,
+    "wild_type": "S",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "I4A",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "A"
+  },
+  {
+    "mutation": "I4C",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "C"
+  },
+  {
+    "mutation": "I4D",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "D"
+  },
+  {
+    "mutation": "I4E",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "E"
+  },
+  {
+    "mutation": "I4F",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "F"
+  },
+  {
+    "mutation": "I4G",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "G"
+  },
+  {
+    "mutation": "I4H",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "H"
+  },
+  {
+    "mutation": "I4K",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "K"
+  },
+  {
+    "mutation": "I4L",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "L"
+  },
+  {
+    "mutation": "I4M",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "M"
+  },
+  {
+    "mutation": "I4N",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "N"
+  },
+  {
+    "mutation": "I4P",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "P"
+  },
+  {
+    "mutation": "I4Q",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "I4R",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "R"
+  },
+  {
+    "mutation": "I4S",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "S"
+  },
+  {
+    "mutation": "I4T",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "T"
+  },
+  {
+    "mutation": "I4V",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "V"
+  },
+  {
+    "mutation": "I4W",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "W"
+  },
+  {
+    "mutation": "I4Y",
+    "position": 4,
+    "wild_type": "I",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "L5A",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "A"
+  },
+  {
+    "mutation": "L5C",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "C"
+  },
+  {
+    "mutation": "L5D",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "D"
+  },
+  {
+    "mutation": "L5E",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "E"
+  },
+  {
+    "mutation": "L5F",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "F"
+  },
+  {
+    "mutation": "L5G",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "G"
+  },
+  {
+    "mutation": "L5H",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "H"
+  },
+  {
+    "mutation": "L5I",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "I"
+  },
+  {
+    "mutation": "L5K",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "K"
+  },
+  {
+    "mutation": "L5M",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "M"
+  },
+  {
+    "mutation": "L5N",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "N"
+  },
+  {
+    "mutation": "L5P",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "P"
+  },
+  {
+    "mutation": "L5Q",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "L5R",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "R"
+  },
+  {
+    "mutation": "L5S",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "S"
+  },
+  {
+    "mutation": "L5T",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "T"
+  },
+  {
+    "mutation": "L5V",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "V"
+  },
+  {
+    "mutation": "L5W",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "W"
+  },
+  {
+    "mutation": "L5Y",
+    "position": 5,
+    "wild_type": "L",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "V6A",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "A"
+  },
+  {
+    "mutation": "V6C",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "C"
+  },
+  {
+    "mutation": "V6D",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "D"
+  },
+  {
+    "mutation": "V6E",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "E"
+  },
+  {
+    "mutation": "V6F",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "F"
+  },
+  {
+    "mutation": "V6G",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "G"
+  },
+  {
+    "mutation": "V6H",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "H"
+  },
+  {
+    "mutation": "V6I",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "I"
+  },
+  {
+    "mutation": "V6K",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "K"
+  },
+  {
+    "mutation": "V6L",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "L"
+  },
+  {
+    "mutation": "V6M",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "M"
+  },
+  {
+    "mutation": "V6N",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "N"
+  },
+  {
+    "mutation": "V6P",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "P"
+  },
+  {
+    "mutation": "V6Q",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "V6R",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "R"
+  },
+  {
+    "mutation": "V6S",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "S"
+  },
+  {
+    "mutation": "V6T",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "T"
+  },
+  {
+    "mutation": "V6W",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "W"
+  },
+  {
+    "mutation": "V6Y",
+    "position": 6,
+    "wild_type": "V",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "A7C",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "C"
+  },
+  {
+    "mutation": "A7D",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "D"
+  },
+  {
+    "mutation": "A7E",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "E"
+  },
+  {
+    "mutation": "A7F",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "F"
+  },
+  {
+    "mutation": "A7G",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "G"
+  },
+  {
+    "mutation": "A7H",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "H"
+  },
+  {
+    "mutation": "A7I",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "I"
+  },
+  {
+    "mutation": "A7K",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "K"
+  },
+  {
+    "mutation": "A7L",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "L"
+  },
+  {
+    "mutation": "A7M",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "M"
+  },
+  {
+    "mutation": "A7N",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "N"
+  },
+  {
+    "mutation": "A7P",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "P"
+  },
+  {
+    "mutation": "A7Q",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "A7R",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "R"
+  },
+  {
+    "mutation": "A7S",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "S"
+  },
+  {
+    "mutation": "A7T",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "T"
+  },
+  {
+    "mutation": "A7V",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "V"
+  },
+  {
+    "mutation": "A7W",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "W"
+  },
+  {
+    "mutation": "A7Y",
+    "position": 7,
+    "wild_type": "A",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "I14A",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "A"
+  },
+  {
+    "mutation": "I14C",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "C"
+  },
+  {
+    "mutation": "I14D",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "D"
+  },
+  {
+    "mutation": "I14E",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "E"
+  },
+  {
+    "mutation": "I14F",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "F"
+  },
+  {
+    "mutation": "I14G",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "G"
+  },
+  {
+    "mutation": "I14H",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "H"
+  },
+  {
+    "mutation": "I14K",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "K"
+  },
+  {
+    "mutation": "I14L",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "L"
+  },
+  {
+    "mutation": "I14M",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "M"
+  },
+  {
+    "mutation": "I14N",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "N"
+  },
+  {
+    "mutation": "I14P",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "P"
+  },
+  {
+    "mutation": "I14Q",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "I14R",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "R"
+  },
+  {
+    "mutation": "I14S",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "S"
+  },
+  {
+    "mutation": "I14T",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "T"
+  },
+  {
+    "mutation": "I14V",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "V"
+  },
+  {
+    "mutation": "I14W",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "W"
+  },
+  {
+    "mutation": "I14Y",
+    "position": 14,
+    "wild_type": "I",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "G15A",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "A"
+  },
+  {
+    "mutation": "G15C",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "C"
+  },
+  {
+    "mutation": "G15D",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "D"
+  },
+  {
+    "mutation": "G15E",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "E"
+  },
+  {
+    "mutation": "G15F",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "F"
+  },
+  {
+    "mutation": "G15H",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "H"
+  },
+  {
+    "mutation": "G15I",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "I"
+  },
+  {
+    "mutation": "G15K",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "K"
+  },
+  {
+    "mutation": "G15L",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "L"
+  },
+  {
+    "mutation": "G15M",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "M"
+  },
+  {
+    "mutation": "G15N",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "N"
+  },
+  {
+    "mutation": "G15P",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "P"
+  },
+  {
+    "mutation": "G15Q",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "G15R",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "R"
+  },
+  {
+    "mutation": "G15S",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "S"
+  },
+  {
+    "mutation": "G15T",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "T"
+  },
+  {
+    "mutation": "G15V",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "V"
+  },
+  {
+    "mutation": "G15W",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "W"
+  },
+  {
+    "mutation": "G15Y",
+    "position": 15,
+    "wild_type": "G",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "F16A",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "A"
+  },
+  {
+    "mutation": "F16C",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "C"
+  },
+  {
+    "mutation": "F16D",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "D"
+  },
+  {
+    "mutation": "F16E",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "E"
+  },
+  {
+    "mutation": "F16G",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "G"
+  },
+  {
+    "mutation": "F16H",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "H"
+  },
+  {
+    "mutation": "F16I",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "I"
+  },
+  {
+    "mutation": "F16K",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "K"
+  },
+  {
+    "mutation": "F16L",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "L"
+  },
+  {
+    "mutation": "F16M",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "M"
+  },
+  {
+    "mutation": "F16N",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "N"
+  },
+  {
+    "mutation": "F16P",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "P"
+  },
+  {
+    "mutation": "F16Q",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "F16R",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "R"
+  },
+  {
+    "mutation": "F16S",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "S"
+  },
+  {
+    "mutation": "F16T",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "T"
+  },
+  {
+    "mutation": "F16V",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "V"
+  },
+  {
+    "mutation": "F16W",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "W"
+  },
+  {
+    "mutation": "F16Y",
+    "position": 16,
+    "wild_type": "F",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "N18A",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "A"
+  },
+  {
+    "mutation": "N18C",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "C"
+  },
+  {
+    "mutation": "N18D",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "D"
+  },
+  {
+    "mutation": "N18E",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "E"
+  },
+  {
+    "mutation": "N18F",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "F"
+  },
+  {
+    "mutation": "N18G",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "G"
+  },
+  {
+    "mutation": "N18H",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "H"
+  },
+  {
+    "mutation": "N18I",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "I"
+  },
+  {
+    "mutation": "N18K",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "K"
+  },
+  {
+    "mutation": "N18L",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "L"
+  },
+  {
+    "mutation": "N18M",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "M"
+  },
+  {
+    "mutation": "N18P",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "P"
+  },
+  {
+    "mutation": "N18Q",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "N18R",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "R"
+  },
+  {
+    "mutation": "N18S",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "S"
+  },
+  {
+    "mutation": "N18T",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "T"
+  },
+  {
+    "mutation": "N18V",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "V"
+  },
+  {
+    "mutation": "N18W",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "W"
+  },
+  {
+    "mutation": "N18Y",
+    "position": 18,
+    "wild_type": "N",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "Q19A",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "A"
+  },
+  {
+    "mutation": "Q19C",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "C"
+  },
+  {
+    "mutation": "Q19D",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "D"
+  },
+  {
+    "mutation": "Q19E",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "E"
+  },
+  {
+    "mutation": "Q19F",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "F"
+  },
+  {
+    "mutation": "Q19G",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "G"
+  },
+  {
+    "mutation": "Q19H",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "H"
+  },
+  {
+    "mutation": "Q19I",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "I"
+  },
+  {
+    "mutation": "Q19K",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "K"
+  },
+  {
+    "mutation": "Q19L",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "L"
+  },
+  {
+    "mutation": "Q19M",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "M"
+  },
+  {
+    "mutation": "Q19N",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "N"
+  },
+  {
+    "mutation": "Q19P",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "P"
+  },
+  {
+    "mutation": "Q19R",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "R"
+  },
+  {
+    "mutation": "Q19S",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "S"
+  },
+  {
+    "mutation": "Q19T",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "T"
+  },
+  {
+    "mutation": "Q19V",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "V"
+  },
+  {
+    "mutation": "Q19W",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "W"
+  },
+  {
+    "mutation": "Q19Y",
+    "position": 19,
+    "wild_type": "Q",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "L20A",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "A"
+  },
+  {
+    "mutation": "L20C",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "C"
+  },
+  {
+    "mutation": "L20D",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "D"
+  },
+  {
+    "mutation": "L20E",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "E"
+  },
+  {
+    "mutation": "L20F",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "F"
+  },
+  {
+    "mutation": "L20G",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "G"
+  },
+  {
+    "mutation": "L20H",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "H"
+  },
+  {
+    "mutation": "L20I",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "I"
+  },
+  {
+    "mutation": "L20K",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "K"
+  },
+  {
+    "mutation": "L20M",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "M"
+  },
+  {
+    "mutation": "L20N",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "N"
+  },
+  {
+    "mutation": "L20P",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "P"
+  },
+  {
+    "mutation": "L20Q",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "L20R",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "R"
+  },
+  {
+    "mutation": "L20S",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "S"
+  },
+  {
+    "mutation": "L20T",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "T"
+  },
+  {
+    "mutation": "L20V",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "V"
+  },
+  {
+    "mutation": "L20W",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "W"
+  },
+  {
+    "mutation": "L20Y",
+    "position": 20,
+    "wild_type": "L",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "P21A",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "A"
+  },
+  {
+    "mutation": "P21C",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "C"
+  },
+  {
+    "mutation": "P21D",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "D"
+  },
+  {
+    "mutation": "P21E",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "E"
+  },
+  {
+    "mutation": "P21F",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "F"
+  },
+  {
+    "mutation": "P21G",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "G"
+  },
+  {
+    "mutation": "P21H",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "H"
+  },
+  {
+    "mutation": "P21I",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "I"
+  },
+  {
+    "mutation": "P21K",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "K"
+  },
+  {
+    "mutation": "P21L",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "L"
+  },
+  {
+    "mutation": "P21M",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "M"
+  },
+  {
+    "mutation": "P21N",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "N"
+  },
+  {
+    "mutation": "P21Q",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "P21R",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "R"
+  },
+  {
+    "mutation": "P21S",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "S"
+  },
+  {
+    "mutation": "P21T",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "T"
+  },
+  {
+    "mutation": "P21V",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "V"
+  },
+  {
+    "mutation": "P21W",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "W"
+  },
+  {
+    "mutation": "P21Y",
+    "position": 21,
+    "wild_type": "P",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "W22A",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "A"
+  },
+  {
+    "mutation": "W22C",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "C"
+  },
+  {
+    "mutation": "W22D",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "D"
+  },
+  {
+    "mutation": "W22E",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "E"
+  },
+  {
+    "mutation": "W22F",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "F"
+  },
+  {
+    "mutation": "W22G",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "G"
+  },
+  {
+    "mutation": "W22H",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "H"
+  },
+  {
+    "mutation": "W22I",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "I"
+  },
+  {
+    "mutation": "W22K",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "K"
+  },
+  {
+    "mutation": "W22L",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "L"
+  },
+  {
+    "mutation": "W22M",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "M"
+  },
+  {
+    "mutation": "W22N",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "N"
+  },
+  {
+    "mutation": "W22P",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "P"
+  },
+  {
+    "mutation": "W22Q",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "W22R",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "R"
+  },
+  {
+    "mutation": "W22S",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "S"
+  },
+  {
+    "mutation": "W22T",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "T"
+  },
+  {
+    "mutation": "W22V",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "V"
+  },
+  {
+    "mutation": "W22Y",
+    "position": 22,
+    "wild_type": "W",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "H23A",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "A"
+  },
+  {
+    "mutation": "H23C",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "C"
+  },
+  {
+    "mutation": "H23D",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "D"
+  },
+  {
+    "mutation": "H23E",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "E"
+  },
+  {
+    "mutation": "H23F",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "F"
+  },
+  {
+    "mutation": "H23G",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "G"
+  },
+  {
+    "mutation": "H23I",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "I"
+  },
+  {
+    "mutation": "H23K",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "K"
+  },
+  {
+    "mutation": "H23L",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "L"
+  },
+  {
+    "mutation": "H23M",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "M"
+  },
+  {
+    "mutation": "H23N",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "N"
+  },
+  {
+    "mutation": "H23P",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "P"
+  },
+  {
+    "mutation": "H23Q",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "H23R",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "R"
+  },
+  {
+    "mutation": "H23S",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "S"
+  },
+  {
+    "mutation": "H23T",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "T"
+  },
+  {
+    "mutation": "H23V",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "V"
+  },
+  {
+    "mutation": "H23W",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "W"
+  },
+  {
+    "mutation": "H23Y",
+    "position": 23,
+    "wild_type": "H",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "L24A",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "A"
+  },
+  {
+    "mutation": "L24C",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "C"
+  },
+  {
+    "mutation": "L24D",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "D"
+  },
+  {
+    "mutation": "L24E",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "E"
+  },
+  {
+    "mutation": "L24F",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "F"
+  },
+  {
+    "mutation": "L24G",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "G"
+  },
+  {
+    "mutation": "L24H",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "H"
+  },
+  {
+    "mutation": "L24I",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "I"
+  },
+  {
+    "mutation": "L24K",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "K"
+  },
+  {
+    "mutation": "L24M",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "M"
+  },
+  {
+    "mutation": "L24N",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "N"
+  },
+  {
+    "mutation": "L24P",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "P"
+  },
+  {
+    "mutation": "L24Q",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "L24R",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "R"
+  },
+  {
+    "mutation": "L24S",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "S"
+  },
+  {
+    "mutation": "L24T",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "T"
+  },
+  {
+    "mutation": "L24V",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "V"
+  },
+  {
+    "mutation": "L24W",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "W"
+  },
+  {
+    "mutation": "L24Y",
+    "position": 24,
+    "wild_type": "L",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "P25A",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "A"
+  },
+  {
+    "mutation": "P25C",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "C"
+  },
+  {
+    "mutation": "P25D",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "D"
+  },
+  {
+    "mutation": "P25E",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "E"
+  },
+  {
+    "mutation": "P25F",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "F"
+  },
+  {
+    "mutation": "P25G",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "G"
+  },
+  {
+    "mutation": "P25H",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "H"
+  },
+  {
+    "mutation": "P25I",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "I"
+  },
+  {
+    "mutation": "P25K",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "K"
+  },
+  {
+    "mutation": "P25L",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "L"
+  },
+  {
+    "mutation": "P25M",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "M"
+  },
+  {
+    "mutation": "P25N",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "N"
+  },
+  {
+    "mutation": "P25Q",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "P25R",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "R"
+  },
+  {
+    "mutation": "P25S",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "S"
+  },
+  {
+    "mutation": "P25T",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "T"
+  },
+  {
+    "mutation": "P25V",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "V"
+  },
+  {
+    "mutation": "P25W",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "W"
+  },
+  {
+    "mutation": "P25Y",
+    "position": 25,
+    "wild_type": "P",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "N26A",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "A"
+  },
+  {
+    "mutation": "N26C",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "C"
+  },
+  {
+    "mutation": "N26D",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "D"
+  },
+  {
+    "mutation": "N26E",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "E"
+  },
+  {
+    "mutation": "N26F",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "F"
+  },
+  {
+    "mutation": "N26G",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "G"
+  },
+  {
+    "mutation": "N26H",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "H"
+  },
+  {
+    "mutation": "N26I",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "I"
+  },
+  {
+    "mutation": "N26K",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "K"
+  },
+  {
+    "mutation": "N26L",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "L"
+  },
+  {
+    "mutation": "N26M",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "M"
+  },
+  {
+    "mutation": "N26P",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "P"
+  },
+  {
+    "mutation": "N26Q",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "N26R",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "R"
+  },
+  {
+    "mutation": "N26S",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "S"
+  },
+  {
+    "mutation": "N26T",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "T"
+  },
+  {
+    "mutation": "N26V",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "V"
+  },
+  {
+    "mutation": "N26W",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "W"
+  },
+  {
+    "mutation": "N26Y",
+    "position": 26,
+    "wild_type": "N",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "D27A",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "A"
+  },
+  {
+    "mutation": "D27C",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "C"
+  },
+  {
+    "mutation": "D27E",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "E"
+  },
+  {
+    "mutation": "D27F",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "F"
+  },
+  {
+    "mutation": "D27G",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "G"
+  },
+  {
+    "mutation": "D27H",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "H"
+  },
+  {
+    "mutation": "D27I",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "I"
+  },
+  {
+    "mutation": "D27K",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "K"
+  },
+  {
+    "mutation": "D27L",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "L"
+  },
+  {
+    "mutation": "D27M",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "M"
+  },
+  {
+    "mutation": "D27N",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "N"
+  },
+  {
+    "mutation": "D27P",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "P"
+  },
+  {
+    "mutation": "D27Q",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "D27R",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "R"
+  },
+  {
+    "mutation": "D27S",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "S"
+  },
+  {
+    "mutation": "D27T",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "T"
+  },
+  {
+    "mutation": "D27V",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "V"
+  },
+  {
+    "mutation": "D27W",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "W"
+  },
+  {
+    "mutation": "D27Y",
+    "position": 27,
+    "wild_type": "D",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "L28A",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "A"
+  },
+  {
+    "mutation": "L28C",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "C"
+  },
+  {
+    "mutation": "L28D",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "D"
+  },
+  {
+    "mutation": "L28E",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "E"
+  },
+  {
+    "mutation": "L28F",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "F"
+  },
+  {
+    "mutation": "L28G",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "G"
+  },
+  {
+    "mutation": "L28H",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "H"
+  },
+  {
+    "mutation": "L28I",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "I"
+  },
+  {
+    "mutation": "L28K",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "K"
+  },
+  {
+    "mutation": "L28M",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "M"
+  },
+  {
+    "mutation": "L28N",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "N"
+  },
+  {
+    "mutation": "L28P",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "P"
+  },
+  {
+    "mutation": "L28Q",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "L28R",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "R"
+  },
+  {
+    "mutation": "L28S",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "S"
+  },
+  {
+    "mutation": "L28T",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "T"
+  },
+  {
+    "mutation": "L28V",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "V"
+  },
+  {
+    "mutation": "L28W",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "W"
+  },
+  {
+    "mutation": "L28Y",
+    "position": 28,
+    "wild_type": "L",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "K29A",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "A"
+  },
+  {
+    "mutation": "K29C",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "C"
+  },
+  {
+    "mutation": "K29D",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "D"
+  },
+  {
+    "mutation": "K29E",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "E"
+  },
+  {
+    "mutation": "K29F",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "F"
+  },
+  {
+    "mutation": "K29G",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "G"
+  },
+  {
+    "mutation": "K29H",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "H"
+  },
+  {
+    "mutation": "K29I",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "I"
+  },
+  {
+    "mutation": "K29L",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "L"
+  },
+  {
+    "mutation": "K29M",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "M"
+  },
+  {
+    "mutation": "K29N",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "N"
+  },
+  {
+    "mutation": "K29P",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "P"
+  },
+  {
+    "mutation": "K29Q",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "K29R",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "R"
+  },
+  {
+    "mutation": "K29S",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "S"
+  },
+  {
+    "mutation": "K29T",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "T"
+  },
+  {
+    "mutation": "K29V",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "V"
+  },
+  {
+    "mutation": "K29W",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "W"
+  },
+  {
+    "mutation": "K29Y",
+    "position": 29,
+    "wild_type": "K",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "H30A",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "A"
+  },
+  {
+    "mutation": "H30C",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "C"
+  },
+  {
+    "mutation": "H30D",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "D"
+  },
+  {
+    "mutation": "H30E",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "E"
+  },
+  {
+    "mutation": "H30F",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "F"
+  },
+  {
+    "mutation": "H30G",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "G"
+  },
+  {
+    "mutation": "H30I",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "I"
+  },
+  {
+    "mutation": "H30K",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "K"
+  },
+  {
+    "mutation": "H30L",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "L"
+  },
+  {
+    "mutation": "H30M",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "M"
+  },
+  {
+    "mutation": "H30N",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "N"
+  },
+  {
+    "mutation": "H30P",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "P"
+  },
+  {
+    "mutation": "H30Q",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "H30R",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "R"
+  },
+  {
+    "mutation": "H30S",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "S"
+  },
+  {
+    "mutation": "H30T",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "T"
+  },
+  {
+    "mutation": "H30V",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "V"
+  },
+  {
+    "mutation": "H30W",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "W"
+  },
+  {
+    "mutation": "H30Y",
+    "position": 30,
+    "wild_type": "H",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "V31A",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "A"
+  },
+  {
+    "mutation": "V31C",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "C"
+  },
+  {
+    "mutation": "V31D",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "D"
+  },
+  {
+    "mutation": "V31E",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "E"
+  },
+  {
+    "mutation": "V31F",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "F"
+  },
+  {
+    "mutation": "V31G",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "G"
+  },
+  {
+    "mutation": "V31H",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "H"
+  },
+  {
+    "mutation": "V31I",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "I"
+  },
+  {
+    "mutation": "V31K",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "K"
+  },
+  {
+    "mutation": "V31L",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "L"
+  },
+  {
+    "mutation": "V31M",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "M"
+  },
+  {
+    "mutation": "V31N",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "N"
+  },
+  {
+    "mutation": "V31P",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "P"
+  },
+  {
+    "mutation": "V31Q",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "V31R",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "R"
+  },
+  {
+    "mutation": "V31S",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "S"
+  },
+  {
+    "mutation": "V31T",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "T"
+  },
+  {
+    "mutation": "V31W",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "W"
+  },
+  {
+    "mutation": "V31Y",
+    "position": 31,
+    "wild_type": "V",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "L40A",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "A"
+  },
+  {
+    "mutation": "L40C",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "C"
+  },
+  {
+    "mutation": "L40D",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "D"
+  },
+  {
+    "mutation": "L40E",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "E"
+  },
+  {
+    "mutation": "L40F",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "F"
+  },
+  {
+    "mutation": "L40G",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "G"
+  },
+  {
+    "mutation": "L40H",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "H"
+  },
+  {
+    "mutation": "L40I",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "I"
+  },
+  {
+    "mutation": "L40K",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "K"
+  },
+  {
+    "mutation": "L40M",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "M"
+  },
+  {
+    "mutation": "L40N",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "N"
+  },
+  {
+    "mutation": "L40P",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "P"
+  },
+  {
+    "mutation": "L40Q",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "L40R",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "R"
+  },
+  {
+    "mutation": "L40S",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "S"
+  },
+  {
+    "mutation": "L40T",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "T"
+  },
+  {
+    "mutation": "L40V",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "V"
+  },
+  {
+    "mutation": "L40W",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "W"
+  },
+  {
+    "mutation": "L40Y",
+    "position": 40,
+    "wild_type": "L",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "V41A",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "A"
+  },
+  {
+    "mutation": "V41C",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "C"
+  },
+  {
+    "mutation": "V41D",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "D"
+  },
+  {
+    "mutation": "V41E",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "E"
+  },
+  {
+    "mutation": "V41F",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "F"
+  },
+  {
+    "mutation": "V41G",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "G"
+  },
+  {
+    "mutation": "V41H",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "H"
+  },
+  {
+    "mutation": "V41I",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "I"
+  },
+  {
+    "mutation": "V41K",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "K"
+  },
+  {
+    "mutation": "V41L",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "L"
+  },
+  {
+    "mutation": "V41M",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "M"
+  },
+  {
+    "mutation": "V41N",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "N"
+  },
+  {
+    "mutation": "V41P",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "P"
+  },
+  {
+    "mutation": "V41Q",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "V41R",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "R"
+  },
+  {
+    "mutation": "V41S",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "S"
+  },
+  {
+    "mutation": "V41T",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "T"
+  },
+  {
+    "mutation": "V41W",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "W"
+  },
+  {
+    "mutation": "V41Y",
+    "position": 41,
+    "wild_type": "V",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "M42A",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "A"
+  },
+  {
+    "mutation": "M42C",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "C"
+  },
+  {
+    "mutation": "M42D",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "D"
+  },
+  {
+    "mutation": "M42E",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "E"
+  },
+  {
+    "mutation": "M42F",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "F"
+  },
+  {
+    "mutation": "M42G",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "G"
+  },
+  {
+    "mutation": "M42H",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "H"
+  },
+  {
+    "mutation": "M42I",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "I"
+  },
+  {
+    "mutation": "M42K",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "K"
+  },
+  {
+    "mutation": "M42L",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "L"
+  },
+  {
+    "mutation": "M42N",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "N"
+  },
+  {
+    "mutation": "M42P",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "P"
+  },
+  {
+    "mutation": "M42Q",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "M42R",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "R"
+  },
+  {
+    "mutation": "M42S",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "S"
+  },
+  {
+    "mutation": "M42T",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "T"
+  },
+  {
+    "mutation": "M42V",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "V"
+  },
+  {
+    "mutation": "M42W",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "W"
+  },
+  {
+    "mutation": "M42Y",
+    "position": 42,
+    "wild_type": "M",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "G43A",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "A"
+  },
+  {
+    "mutation": "G43C",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "C"
+  },
+  {
+    "mutation": "G43D",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "D"
+  },
+  {
+    "mutation": "G43E",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "E"
+  },
+  {
+    "mutation": "G43F",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "F"
+  },
+  {
+    "mutation": "G43H",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "H"
+  },
+  {
+    "mutation": "G43I",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "I"
+  },
+  {
+    "mutation": "G43K",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "K"
+  },
+  {
+    "mutation": "G43L",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "L"
+  },
+  {
+    "mutation": "G43M",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "M"
+  },
+  {
+    "mutation": "G43N",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "N"
+  },
+  {
+    "mutation": "G43P",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "P"
+  },
+  {
+    "mutation": "G43Q",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "G43R",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "R"
+  },
+  {
+    "mutation": "G43S",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "S"
+  },
+  {
+    "mutation": "G43T",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "T"
+  },
+  {
+    "mutation": "G43V",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "V"
+  },
+  {
+    "mutation": "G43W",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "W"
+  },
+  {
+    "mutation": "G43Y",
+    "position": 43,
+    "wild_type": "G",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "R44A",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "A"
+  },
+  {
+    "mutation": "R44C",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "C"
+  },
+  {
+    "mutation": "R44D",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "D"
+  },
+  {
+    "mutation": "R44E",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "E"
+  },
+  {
+    "mutation": "R44F",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "F"
+  },
+  {
+    "mutation": "R44G",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "G"
+  },
+  {
+    "mutation": "R44H",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "H"
+  },
+  {
+    "mutation": "R44I",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "I"
+  },
+  {
+    "mutation": "R44K",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "K"
+  },
+  {
+    "mutation": "R44L",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "L"
+  },
+  {
+    "mutation": "R44M",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "M"
+  },
+  {
+    "mutation": "R44N",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "N"
+  },
+  {
+    "mutation": "R44P",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "P"
+  },
+  {
+    "mutation": "R44Q",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "R44S",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "S"
+  },
+  {
+    "mutation": "R44T",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "T"
+  },
+  {
+    "mutation": "R44V",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "V"
+  },
+  {
+    "mutation": "R44W",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "W"
+  },
+  {
+    "mutation": "R44Y",
+    "position": 44,
+    "wild_type": "R",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "K45A",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "A"
+  },
+  {
+    "mutation": "K45C",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "C"
+  },
+  {
+    "mutation": "K45D",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "D"
+  },
+  {
+    "mutation": "K45E",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "E"
+  },
+  {
+    "mutation": "K45F",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "F"
+  },
+  {
+    "mutation": "K45G",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "G"
+  },
+  {
+    "mutation": "K45H",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "H"
+  },
+  {
+    "mutation": "K45I",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "I"
+  },
+  {
+    "mutation": "K45L",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "L"
+  },
+  {
+    "mutation": "K45M",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "M"
+  },
+  {
+    "mutation": "K45N",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "N"
+  },
+  {
+    "mutation": "K45P",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "P"
+  },
+  {
+    "mutation": "K45Q",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "K45R",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "R"
+  },
+  {
+    "mutation": "K45S",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "S"
+  },
+  {
+    "mutation": "K45T",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "T"
+  },
+  {
+    "mutation": "K45V",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "V"
+  },
+  {
+    "mutation": "K45W",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "W"
+  },
+  {
+    "mutation": "K45Y",
+    "position": 45,
+    "wild_type": "K",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "T46A",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "A"
+  },
+  {
+    "mutation": "T46C",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "C"
+  },
+  {
+    "mutation": "T46D",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "D"
+  },
+  {
+    "mutation": "T46E",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "E"
+  },
+  {
+    "mutation": "T46F",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "F"
+  },
+  {
+    "mutation": "T46G",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "G"
+  },
+  {
+    "mutation": "T46H",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "H"
+  },
+  {
+    "mutation": "T46I",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "I"
+  },
+  {
+    "mutation": "T46K",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "K"
+  },
+  {
+    "mutation": "T46L",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "L"
+  },
+  {
+    "mutation": "T46M",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "M"
+  },
+  {
+    "mutation": "T46N",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "N"
+  },
+  {
+    "mutation": "T46P",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "P"
+  },
+  {
+    "mutation": "T46Q",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "T46R",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "R"
+  },
+  {
+    "mutation": "T46S",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "S"
+  },
+  {
+    "mutation": "T46V",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "V"
+  },
+  {
+    "mutation": "T46W",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "W"
+  },
+  {
+    "mutation": "T46Y",
+    "position": 46,
+    "wild_type": "T",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "F47A",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "A"
+  },
+  {
+    "mutation": "F47C",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "C"
+  },
+  {
+    "mutation": "F47D",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "D"
+  },
+  {
+    "mutation": "F47E",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "E"
+  },
+  {
+    "mutation": "F47G",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "G"
+  },
+  {
+    "mutation": "F47H",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "H"
+  },
+  {
+    "mutation": "F47I",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "I"
+  },
+  {
+    "mutation": "F47K",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "K"
+  },
+  {
+    "mutation": "F47L",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "L"
+  },
+  {
+    "mutation": "F47M",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "M"
+  },
+  {
+    "mutation": "F47N",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "N"
+  },
+  {
+    "mutation": "F47P",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "P"
+  },
+  {
+    "mutation": "F47Q",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "F47R",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "R"
+  },
+  {
+    "mutation": "F47S",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "S"
+  },
+  {
+    "mutation": "F47T",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "T"
+  },
+  {
+    "mutation": "F47V",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "V"
+  },
+  {
+    "mutation": "F47W",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "W"
+  },
+  {
+    "mutation": "F47Y",
+    "position": 47,
+    "wild_type": "F",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "E48A",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "A"
+  },
+  {
+    "mutation": "E48C",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "C"
+  },
+  {
+    "mutation": "E48D",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "D"
+  },
+  {
+    "mutation": "E48F",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "F"
+  },
+  {
+    "mutation": "E48G",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "G"
+  },
+  {
+    "mutation": "E48H",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "H"
+  },
+  {
+    "mutation": "E48I",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "I"
+  },
+  {
+    "mutation": "E48K",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "K"
+  },
+  {
+    "mutation": "E48L",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "L"
+  },
+  {
+    "mutation": "E48M",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "M"
+  },
+  {
+    "mutation": "E48N",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "N"
+  },
+  {
+    "mutation": "E48P",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "P"
+  },
+  {
+    "mutation": "E48Q",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "E48R",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "R"
+  },
+  {
+    "mutation": "E48S",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "S"
+  },
+  {
+    "mutation": "E48T",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "T"
+  },
+  {
+    "mutation": "E48V",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "V"
+  },
+  {
+    "mutation": "E48W",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "W"
+  },
+  {
+    "mutation": "E48Y",
+    "position": 48,
+    "wild_type": "E",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "S49A",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "A"
+  },
+  {
+    "mutation": "S49C",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "C"
+  },
+  {
+    "mutation": "S49D",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "D"
+  },
+  {
+    "mutation": "S49E",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "E"
+  },
+  {
+    "mutation": "S49F",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "F"
+  },
+  {
+    "mutation": "S49G",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "G"
+  },
+  {
+    "mutation": "S49H",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "H"
+  },
+  {
+    "mutation": "S49I",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "I"
+  },
+  {
+    "mutation": "S49K",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "K"
+  },
+  {
+    "mutation": "S49L",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "L"
+  },
+  {
+    "mutation": "S49M",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "M"
+  },
+  {
+    "mutation": "S49N",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "N"
+  },
+  {
+    "mutation": "S49P",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "P"
+  },
+  {
+    "mutation": "S49Q",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "S49R",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "R"
+  },
+  {
+    "mutation": "S49T",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "T"
+  },
+  {
+    "mutation": "S49V",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "V"
+  },
+  {
+    "mutation": "S49W",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "W"
+  },
+  {
+    "mutation": "S49Y",
+    "position": 49,
+    "wild_type": "S",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "I50A",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "A"
+  },
+  {
+    "mutation": "I50C",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "C"
+  },
+  {
+    "mutation": "I50D",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "D"
+  },
+  {
+    "mutation": "I50E",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "E"
+  },
+  {
+    "mutation": "I50F",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "F"
+  },
+  {
+    "mutation": "I50G",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "G"
+  },
+  {
+    "mutation": "I50H",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "H"
+  },
+  {
+    "mutation": "I50K",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "K"
+  },
+  {
+    "mutation": "I50L",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "L"
+  },
+  {
+    "mutation": "I50M",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "M"
+  },
+  {
+    "mutation": "I50N",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "N"
+  },
+  {
+    "mutation": "I50P",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "P"
+  },
+  {
+    "mutation": "I50Q",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "I50R",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "R"
+  },
+  {
+    "mutation": "I50S",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "S"
+  },
+  {
+    "mutation": "I50T",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "T"
+  },
+  {
+    "mutation": "I50V",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "V"
+  },
+  {
+    "mutation": "I50W",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "W"
+  },
+  {
+    "mutation": "I50Y",
+    "position": 50,
+    "wild_type": "I",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "K52A",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "A"
+  },
+  {
+    "mutation": "K52C",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "C"
+  },
+  {
+    "mutation": "K52D",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "D"
+  },
+  {
+    "mutation": "K52E",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "E"
+  },
+  {
+    "mutation": "K52F",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "F"
+  },
+  {
+    "mutation": "K52G",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "G"
+  },
+  {
+    "mutation": "K52H",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "H"
+  },
+  {
+    "mutation": "K52I",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "I"
+  },
+  {
+    "mutation": "K52L",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "L"
+  },
+  {
+    "mutation": "K52M",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "M"
+  },
+  {
+    "mutation": "K52N",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "N"
+  },
+  {
+    "mutation": "K52P",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "P"
+  },
+  {
+    "mutation": "K52Q",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "K52R",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "R"
+  },
+  {
+    "mutation": "K52S",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "S"
+  },
+  {
+    "mutation": "K52T",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "T"
+  },
+  {
+    "mutation": "K52V",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "V"
+  },
+  {
+    "mutation": "K52W",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "W"
+  },
+  {
+    "mutation": "K52Y",
+    "position": 52,
+    "wild_type": "K",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "P53A",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "A"
+  },
+  {
+    "mutation": "P53C",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "C"
+  },
+  {
+    "mutation": "P53D",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "D"
+  },
+  {
+    "mutation": "P53E",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "E"
+  },
+  {
+    "mutation": "P53F",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "F"
+  },
+  {
+    "mutation": "P53G",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "G"
+  },
+  {
+    "mutation": "P53H",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "H"
+  },
+  {
+    "mutation": "P53I",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "I"
+  },
+  {
+    "mutation": "P53K",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "K"
+  },
+  {
+    "mutation": "P53L",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "L"
+  },
+  {
+    "mutation": "P53M",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "M"
+  },
+  {
+    "mutation": "P53N",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "N"
+  },
+  {
+    "mutation": "P53Q",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "P53R",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "R"
+  },
+  {
+    "mutation": "P53S",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "S"
+  },
+  {
+    "mutation": "P53T",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "T"
+  },
+  {
+    "mutation": "P53V",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "V"
+  },
+  {
+    "mutation": "P53W",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "W"
+  },
+  {
+    "mutation": "P53Y",
+    "position": 53,
+    "wild_type": "P",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "L54A",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "A"
+  },
+  {
+    "mutation": "L54C",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "C"
+  },
+  {
+    "mutation": "L54D",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "D"
+  },
+  {
+    "mutation": "L54E",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "E"
+  },
+  {
+    "mutation": "L54F",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "F"
+  },
+  {
+    "mutation": "L54G",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "G"
+  },
+  {
+    "mutation": "L54H",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "H"
+  },
+  {
+    "mutation": "L54I",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "I"
+  },
+  {
+    "mutation": "L54K",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "K"
+  },
+  {
+    "mutation": "L54M",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "M"
+  },
+  {
+    "mutation": "L54N",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "N"
+  },
+  {
+    "mutation": "L54P",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "P"
+  },
+  {
+    "mutation": "L54Q",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "L54R",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "R"
+  },
+  {
+    "mutation": "L54S",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "S"
+  },
+  {
+    "mutation": "L54T",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "T"
+  },
+  {
+    "mutation": "L54V",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "V"
+  },
+  {
+    "mutation": "L54W",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "W"
+  },
+  {
+    "mutation": "L54Y",
+    "position": 54,
+    "wild_type": "L",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "P55A",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "A"
+  },
+  {
+    "mutation": "P55C",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "C"
+  },
+  {
+    "mutation": "P55D",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "D"
+  },
+  {
+    "mutation": "P55E",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "E"
+  },
+  {
+    "mutation": "P55F",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "F"
+  },
+  {
+    "mutation": "P55G",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "G"
+  },
+  {
+    "mutation": "P55H",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "H"
+  },
+  {
+    "mutation": "P55I",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "I"
+  },
+  {
+    "mutation": "P55K",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "K"
+  },
+  {
+    "mutation": "P55L",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "L"
+  },
+  {
+    "mutation": "P55M",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "M"
+  },
+  {
+    "mutation": "P55N",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "N"
+  },
+  {
+    "mutation": "P55Q",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "P55R",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "R"
+  },
+  {
+    "mutation": "P55S",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "S"
+  },
+  {
+    "mutation": "P55T",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "T"
+  },
+  {
+    "mutation": "P55V",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "V"
+  },
+  {
+    "mutation": "P55W",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "W"
+  },
+  {
+    "mutation": "P55Y",
+    "position": 55,
+    "wild_type": "P",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "N56A",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "A"
+  },
+  {
+    "mutation": "N56C",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "C"
+  },
+  {
+    "mutation": "N56D",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "D"
+  },
+  {
+    "mutation": "N56E",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "E"
+  },
+  {
+    "mutation": "N56F",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "F"
+  },
+  {
+    "mutation": "N56G",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "G"
+  },
+  {
+    "mutation": "N56H",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "H"
+  },
+  {
+    "mutation": "N56I",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "I"
+  },
+  {
+    "mutation": "N56K",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "K"
+  },
+  {
+    "mutation": "N56L",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "L"
+  },
+  {
+    "mutation": "N56M",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "M"
+  },
+  {
+    "mutation": "N56P",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "P"
+  },
+  {
+    "mutation": "N56Q",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "N56R",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "R"
+  },
+  {
+    "mutation": "N56S",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "S"
+  },
+  {
+    "mutation": "N56T",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "T"
+  },
+  {
+    "mutation": "N56V",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "V"
+  },
+  {
+    "mutation": "N56W",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "W"
+  },
+  {
+    "mutation": "N56Y",
+    "position": 56,
+    "wild_type": "N",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "R57A",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "A"
+  },
+  {
+    "mutation": "R57C",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "C"
+  },
+  {
+    "mutation": "R57D",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "D"
+  },
+  {
+    "mutation": "R57E",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "E"
+  },
+  {
+    "mutation": "R57F",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "F"
+  },
+  {
+    "mutation": "R57G",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "G"
+  },
+  {
+    "mutation": "R57H",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "H"
+  },
+  {
+    "mutation": "R57I",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "I"
+  },
+  {
+    "mutation": "R57K",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "K"
+  },
+  {
+    "mutation": "R57L",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "L"
+  },
+  {
+    "mutation": "R57M",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "M"
+  },
+  {
+    "mutation": "R57N",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "N"
+  },
+  {
+    "mutation": "R57P",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "P"
+  },
+  {
+    "mutation": "R57Q",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "R57S",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "S"
+  },
+  {
+    "mutation": "R57T",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "T"
+  },
+  {
+    "mutation": "R57V",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "V"
+  },
+  {
+    "mutation": "R57W",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "W"
+  },
+  {
+    "mutation": "R57Y",
+    "position": 57,
+    "wild_type": "R",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "N59A",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "A"
+  },
+  {
+    "mutation": "N59C",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "C"
+  },
+  {
+    "mutation": "N59D",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "D"
+  },
+  {
+    "mutation": "N59E",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "E"
+  },
+  {
+    "mutation": "N59F",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "F"
+  },
+  {
+    "mutation": "N59G",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "G"
+  },
+  {
+    "mutation": "N59H",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "H"
+  },
+  {
+    "mutation": "N59I",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "I"
+  },
+  {
+    "mutation": "N59K",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "K"
+  },
+  {
+    "mutation": "N59L",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "L"
+  },
+  {
+    "mutation": "N59M",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "M"
+  },
+  {
+    "mutation": "N59P",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "P"
+  },
+  {
+    "mutation": "N59Q",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "N59R",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "R"
+  },
+  {
+    "mutation": "N59S",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "S"
+  },
+  {
+    "mutation": "N59T",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "T"
+  },
+  {
+    "mutation": "N59V",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "V"
+  },
+  {
+    "mutation": "N59W",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "W"
+  },
+  {
+    "mutation": "N59Y",
+    "position": 59,
+    "wild_type": "N",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "F90A",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "A"
+  },
+  {
+    "mutation": "F90C",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "C"
+  },
+  {
+    "mutation": "F90D",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "D"
+  },
+  {
+    "mutation": "F90E",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "E"
+  },
+  {
+    "mutation": "F90G",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "G"
+  },
+  {
+    "mutation": "F90H",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "H"
+  },
+  {
+    "mutation": "F90I",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "I"
+  },
+  {
+    "mutation": "F90K",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "K"
+  },
+  {
+    "mutation": "F90L",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "L"
+  },
+  {
+    "mutation": "F90M",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "M"
+  },
+  {
+    "mutation": "F90N",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "N"
+  },
+  {
+    "mutation": "F90P",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "P"
+  },
+  {
+    "mutation": "F90Q",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "F90R",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "R"
+  },
+  {
+    "mutation": "F90S",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "S"
+  },
+  {
+    "mutation": "F90T",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "T"
+  },
+  {
+    "mutation": "F90V",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "V"
+  },
+  {
+    "mutation": "F90W",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "W"
+  },
+  {
+    "mutation": "F90Y",
+    "position": 90,
+    "wild_type": "F",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "I91A",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "A"
+  },
+  {
+    "mutation": "I91C",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "C"
+  },
+  {
+    "mutation": "I91D",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "D"
+  },
+  {
+    "mutation": "I91E",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "E"
+  },
+  {
+    "mutation": "I91F",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "F"
+  },
+  {
+    "mutation": "I91G",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "G"
+  },
+  {
+    "mutation": "I91H",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "H"
+  },
+  {
+    "mutation": "I91K",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "K"
+  },
+  {
+    "mutation": "I91L",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "L"
+  },
+  {
+    "mutation": "I91M",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "M"
+  },
+  {
+    "mutation": "I91N",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "N"
+  },
+  {
+    "mutation": "I91P",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "P"
+  },
+  {
+    "mutation": "I91Q",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "I91R",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "R"
+  },
+  {
+    "mutation": "I91S",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "S"
+  },
+  {
+    "mutation": "I91T",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "T"
+  },
+  {
+    "mutation": "I91V",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "V"
+  },
+  {
+    "mutation": "I91W",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "W"
+  },
+  {
+    "mutation": "I91Y",
+    "position": 91,
+    "wild_type": "I",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "F92A",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "A"
+  },
+  {
+    "mutation": "F92C",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "C"
+  },
+  {
+    "mutation": "F92D",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "D"
+  },
+  {
+    "mutation": "F92E",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "E"
+  },
+  {
+    "mutation": "F92G",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "G"
+  },
+  {
+    "mutation": "F92H",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "H"
+  },
+  {
+    "mutation": "F92I",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "I"
+  },
+  {
+    "mutation": "F92K",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "K"
+  },
+  {
+    "mutation": "F92L",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "L"
+  },
+  {
+    "mutation": "F92M",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "M"
+  },
+  {
+    "mutation": "F92N",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "N"
+  },
+  {
+    "mutation": "F92P",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "P"
+  },
+  {
+    "mutation": "F92Q",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "F92R",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "R"
+  },
+  {
+    "mutation": "F92S",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "S"
+  },
+  {
+    "mutation": "F92T",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "T"
+  },
+  {
+    "mutation": "F92V",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "V"
+  },
+  {
+    "mutation": "F92W",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "W"
+  },
+  {
+    "mutation": "F92Y",
+    "position": 92,
+    "wild_type": "F",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "G93A",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "A"
+  },
+  {
+    "mutation": "G93C",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "C"
+  },
+  {
+    "mutation": "G93D",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "D"
+  },
+  {
+    "mutation": "G93E",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "E"
+  },
+  {
+    "mutation": "G93F",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "F"
+  },
+  {
+    "mutation": "G93H",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "H"
+  },
+  {
+    "mutation": "G93I",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "I"
+  },
+  {
+    "mutation": "G93K",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "K"
+  },
+  {
+    "mutation": "G93L",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "L"
+  },
+  {
+    "mutation": "G93M",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "M"
+  },
+  {
+    "mutation": "G93N",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "N"
+  },
+  {
+    "mutation": "G93P",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "P"
+  },
+  {
+    "mutation": "G93Q",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "G93R",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "R"
+  },
+  {
+    "mutation": "G93S",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "S"
+  },
+  {
+    "mutation": "G93T",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "T"
+  },
+  {
+    "mutation": "G93V",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "V"
+  },
+  {
+    "mutation": "G93W",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "W"
+  },
+  {
+    "mutation": "G93Y",
+    "position": 93,
+    "wild_type": "G",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "G94A",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "A"
+  },
+  {
+    "mutation": "G94C",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "C"
+  },
+  {
+    "mutation": "G94D",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "D"
+  },
+  {
+    "mutation": "G94E",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "E"
+  },
+  {
+    "mutation": "G94F",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "F"
+  },
+  {
+    "mutation": "G94H",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "H"
+  },
+  {
+    "mutation": "G94I",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "I"
+  },
+  {
+    "mutation": "G94K",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "K"
+  },
+  {
+    "mutation": "G94L",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "L"
+  },
+  {
+    "mutation": "G94M",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "M"
+  },
+  {
+    "mutation": "G94N",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "N"
+  },
+  {
+    "mutation": "G94P",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "P"
+  },
+  {
+    "mutation": "G94Q",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "G94R",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "R"
+  },
+  {
+    "mutation": "G94S",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "S"
+  },
+  {
+    "mutation": "G94T",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "T"
+  },
+  {
+    "mutation": "G94V",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "V"
+  },
+  {
+    "mutation": "G94W",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "W"
+  },
+  {
+    "mutation": "G94Y",
+    "position": 94,
+    "wild_type": "G",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "Q95A",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "A"
+  },
+  {
+    "mutation": "Q95C",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "C"
+  },
+  {
+    "mutation": "Q95D",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "D"
+  },
+  {
+    "mutation": "Q95E",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "E"
+  },
+  {
+    "mutation": "Q95F",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "F"
+  },
+  {
+    "mutation": "Q95G",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "G"
+  },
+  {
+    "mutation": "Q95H",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "H"
+  },
+  {
+    "mutation": "Q95I",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "I"
+  },
+  {
+    "mutation": "Q95K",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "K"
+  },
+  {
+    "mutation": "Q95L",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "L"
+  },
+  {
+    "mutation": "Q95M",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "M"
+  },
+  {
+    "mutation": "Q95N",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "N"
+  },
+  {
+    "mutation": "Q95P",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "P"
+  },
+  {
+    "mutation": "Q95R",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "R"
+  },
+  {
+    "mutation": "Q95S",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "S"
+  },
+  {
+    "mutation": "Q95T",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "T"
+  },
+  {
+    "mutation": "Q95V",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "V"
+  },
+  {
+    "mutation": "Q95W",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "W"
+  },
+  {
+    "mutation": "Q95Y",
+    "position": 95,
+    "wild_type": "Q",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "T96A",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "A"
+  },
+  {
+    "mutation": "T96C",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "C"
+  },
+  {
+    "mutation": "T96D",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "D"
+  },
+  {
+    "mutation": "T96E",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "E"
+  },
+  {
+    "mutation": "T96F",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "F"
+  },
+  {
+    "mutation": "T96G",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "G"
+  },
+  {
+    "mutation": "T96H",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "H"
+  },
+  {
+    "mutation": "T96I",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "I"
+  },
+  {
+    "mutation": "T96K",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "K"
+  },
+  {
+    "mutation": "T96L",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "L"
+  },
+  {
+    "mutation": "T96M",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "M"
+  },
+  {
+    "mutation": "T96N",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "N"
+  },
+  {
+    "mutation": "T96P",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "P"
+  },
+  {
+    "mutation": "T96Q",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "T96R",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "R"
+  },
+  {
+    "mutation": "T96S",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "S"
+  },
+  {
+    "mutation": "T96V",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "V"
+  },
+  {
+    "mutation": "T96W",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "W"
+  },
+  {
+    "mutation": "T96Y",
+    "position": 96,
+    "wild_type": "T",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "L97A",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "A"
+  },
+  {
+    "mutation": "L97C",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "C"
+  },
+  {
+    "mutation": "L97D",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "D"
+  },
+  {
+    "mutation": "L97E",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "E"
+  },
+  {
+    "mutation": "L97F",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "F"
+  },
+  {
+    "mutation": "L97G",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "G"
+  },
+  {
+    "mutation": "L97H",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "H"
+  },
+  {
+    "mutation": "L97I",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "I"
+  },
+  {
+    "mutation": "L97K",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "K"
+  },
+  {
+    "mutation": "L97M",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "M"
+  },
+  {
+    "mutation": "L97N",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "N"
+  },
+  {
+    "mutation": "L97P",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "P"
+  },
+  {
+    "mutation": "L97Q",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "L97R",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "R"
+  },
+  {
+    "mutation": "L97S",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "S"
+  },
+  {
+    "mutation": "L97T",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "T"
+  },
+  {
+    "mutation": "L97V",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "V"
+  },
+  {
+    "mutation": "L97W",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "W"
+  },
+  {
+    "mutation": "L97Y",
+    "position": 97,
+    "wild_type": "L",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "F98A",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "A"
+  },
+  {
+    "mutation": "F98C",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "C"
+  },
+  {
+    "mutation": "F98D",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "D"
+  },
+  {
+    "mutation": "F98E",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "E"
+  },
+  {
+    "mutation": "F98G",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "G"
+  },
+  {
+    "mutation": "F98H",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "H"
+  },
+  {
+    "mutation": "F98I",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "I"
+  },
+  {
+    "mutation": "F98K",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "K"
+  },
+  {
+    "mutation": "F98L",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "L"
+  },
+  {
+    "mutation": "F98M",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "M"
+  },
+  {
+    "mutation": "F98N",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "N"
+  },
+  {
+    "mutation": "F98P",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "P"
+  },
+  {
+    "mutation": "F98Q",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "F98R",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "R"
+  },
+  {
+    "mutation": "F98S",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "S"
+  },
+  {
+    "mutation": "F98T",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "T"
+  },
+  {
+    "mutation": "F98V",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "V"
+  },
+  {
+    "mutation": "F98W",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "W"
+  },
+  {
+    "mutation": "F98Y",
+    "position": 98,
+    "wild_type": "F",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "E99A",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "A"
+  },
+  {
+    "mutation": "E99C",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "C"
+  },
+  {
+    "mutation": "E99D",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "D"
+  },
+  {
+    "mutation": "E99F",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "F"
+  },
+  {
+    "mutation": "E99G",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "G"
+  },
+  {
+    "mutation": "E99H",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "H"
+  },
+  {
+    "mutation": "E99I",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "I"
+  },
+  {
+    "mutation": "E99K",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "K"
+  },
+  {
+    "mutation": "E99L",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "L"
+  },
+  {
+    "mutation": "E99M",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "M"
+  },
+  {
+    "mutation": "E99N",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "N"
+  },
+  {
+    "mutation": "E99P",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "P"
+  },
+  {
+    "mutation": "E99Q",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "E99R",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "R"
+  },
+  {
+    "mutation": "E99S",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "S"
+  },
+  {
+    "mutation": "E99T",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "T"
+  },
+  {
+    "mutation": "E99V",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "V"
+  },
+  {
+    "mutation": "E99W",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "W"
+  },
+  {
+    "mutation": "E99Y",
+    "position": 99,
+    "wild_type": "E",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "E100A",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "A"
+  },
+  {
+    "mutation": "E100C",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "C"
+  },
+  {
+    "mutation": "E100D",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "D"
+  },
+  {
+    "mutation": "E100F",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "F"
+  },
+  {
+    "mutation": "E100G",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "G"
+  },
+  {
+    "mutation": "E100H",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "H"
+  },
+  {
+    "mutation": "E100I",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "I"
+  },
+  {
+    "mutation": "E100K",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "K"
+  },
+  {
+    "mutation": "E100L",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "L"
+  },
+  {
+    "mutation": "E100M",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "M"
+  },
+  {
+    "mutation": "E100N",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "N"
+  },
+  {
+    "mutation": "E100P",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "P"
+  },
+  {
+    "mutation": "E100Q",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "E100R",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "R"
+  },
+  {
+    "mutation": "E100S",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "S"
+  },
+  {
+    "mutation": "E100T",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "T"
+  },
+  {
+    "mutation": "E100V",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "V"
+  },
+  {
+    "mutation": "E100W",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "W"
+  },
+  {
+    "mutation": "E100Y",
+    "position": 100,
+    "wild_type": "E",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "M101A",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "A"
+  },
+  {
+    "mutation": "M101C",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "C"
+  },
+  {
+    "mutation": "M101D",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "D"
+  },
+  {
+    "mutation": "M101E",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "E"
+  },
+  {
+    "mutation": "M101F",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "F"
+  },
+  {
+    "mutation": "M101G",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "G"
+  },
+  {
+    "mutation": "M101H",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "H"
+  },
+  {
+    "mutation": "M101I",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "I"
+  },
+  {
+    "mutation": "M101K",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "K"
+  },
+  {
+    "mutation": "M101L",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "L"
+  },
+  {
+    "mutation": "M101N",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "N"
+  },
+  {
+    "mutation": "M101P",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "P"
+  },
+  {
+    "mutation": "M101Q",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "M101R",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "R"
+  },
+  {
+    "mutation": "M101S",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "S"
+  },
+  {
+    "mutation": "M101T",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "T"
+  },
+  {
+    "mutation": "M101V",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "V"
+  },
+  {
+    "mutation": "M101W",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "W"
+  },
+  {
+    "mutation": "M101Y",
+    "position": 101,
+    "wild_type": "M",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "I102A",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "A"
+  },
+  {
+    "mutation": "I102C",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "C"
+  },
+  {
+    "mutation": "I102D",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "D"
+  },
+  {
+    "mutation": "I102E",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "E"
+  },
+  {
+    "mutation": "I102F",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "F"
+  },
+  {
+    "mutation": "I102G",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "G"
+  },
+  {
+    "mutation": "I102H",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "H"
+  },
+  {
+    "mutation": "I102K",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "K"
+  },
+  {
+    "mutation": "I102L",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "L"
+  },
+  {
+    "mutation": "I102M",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "M"
+  },
+  {
+    "mutation": "I102N",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "N"
+  },
+  {
+    "mutation": "I102P",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "P"
+  },
+  {
+    "mutation": "I102Q",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "I102R",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "R"
+  },
+  {
+    "mutation": "I102S",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "S"
+  },
+  {
+    "mutation": "I102T",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "T"
+  },
+  {
+    "mutation": "I102V",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "V"
+  },
+  {
+    "mutation": "I102W",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "W"
+  },
+  {
+    "mutation": "I102Y",
+    "position": 102,
+    "wild_type": "I",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "M108A",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "A"
+  },
+  {
+    "mutation": "M108C",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "C"
+  },
+  {
+    "mutation": "M108D",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "D"
+  },
+  {
+    "mutation": "M108E",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "E"
+  },
+  {
+    "mutation": "M108F",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "F"
+  },
+  {
+    "mutation": "M108G",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "G"
+  },
+  {
+    "mutation": "M108H",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "H"
+  },
+  {
+    "mutation": "M108I",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "I"
+  },
+  {
+    "mutation": "M108K",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "K"
+  },
+  {
+    "mutation": "M108L",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "L"
+  },
+  {
+    "mutation": "M108N",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "N"
+  },
+  {
+    "mutation": "M108P",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "P"
+  },
+  {
+    "mutation": "M108Q",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "M108R",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "R"
+  },
+  {
+    "mutation": "M108S",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "S"
+  },
+  {
+    "mutation": "M108T",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "T"
+  },
+  {
+    "mutation": "M108V",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "V"
+  },
+  {
+    "mutation": "M108W",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "W"
+  },
+  {
+    "mutation": "M108Y",
+    "position": 108,
+    "wild_type": "M",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "Y109A",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "A"
+  },
+  {
+    "mutation": "Y109C",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "C"
+  },
+  {
+    "mutation": "Y109D",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "D"
+  },
+  {
+    "mutation": "Y109E",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "E"
+  },
+  {
+    "mutation": "Y109F",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "F"
+  },
+  {
+    "mutation": "Y109G",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "G"
+  },
+  {
+    "mutation": "Y109H",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "H"
+  },
+  {
+    "mutation": "Y109I",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "I"
+  },
+  {
+    "mutation": "Y109K",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "K"
+  },
+  {
+    "mutation": "Y109L",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "L"
+  },
+  {
+    "mutation": "Y109M",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "M"
+  },
+  {
+    "mutation": "Y109N",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "N"
+  },
+  {
+    "mutation": "Y109P",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "P"
+  },
+  {
+    "mutation": "Y109Q",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "Y109R",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "R"
+  },
+  {
+    "mutation": "Y109S",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "S"
+  },
+  {
+    "mutation": "Y109T",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "T"
+  },
+  {
+    "mutation": "Y109V",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "V"
+  },
+  {
+    "mutation": "Y109W",
+    "position": 109,
+    "wild_type": "Y",
+    "mutated": "W"
+  },
+  {
+    "mutation": "I110A",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "A"
+  },
+  {
+    "mutation": "I110C",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "C"
+  },
+  {
+    "mutation": "I110D",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "D"
+  },
+  {
+    "mutation": "I110E",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "E"
+  },
+  {
+    "mutation": "I110F",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "F"
+  },
+  {
+    "mutation": "I110G",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "G"
+  },
+  {
+    "mutation": "I110H",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "H"
+  },
+  {
+    "mutation": "I110K",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "K"
+  },
+  {
+    "mutation": "I110L",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "L"
+  },
+  {
+    "mutation": "I110M",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "M"
+  },
+  {
+    "mutation": "I110N",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "N"
+  },
+  {
+    "mutation": "I110P",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "P"
+  },
+  {
+    "mutation": "I110Q",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "I110R",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "R"
+  },
+  {
+    "mutation": "I110S",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "S"
+  },
+  {
+    "mutation": "I110T",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "T"
+  },
+  {
+    "mutation": "I110V",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "V"
+  },
+  {
+    "mutation": "I110W",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "W"
+  },
+  {
+    "mutation": "I110Y",
+    "position": 110,
+    "wild_type": "I",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "T111A",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "A"
+  },
+  {
+    "mutation": "T111C",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "C"
+  },
+  {
+    "mutation": "T111D",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "D"
+  },
+  {
+    "mutation": "T111E",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "E"
+  },
+  {
+    "mutation": "T111F",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "F"
+  },
+  {
+    "mutation": "T111G",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "G"
+  },
+  {
+    "mutation": "T111H",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "H"
+  },
+  {
+    "mutation": "T111I",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "I"
+  },
+  {
+    "mutation": "T111K",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "K"
+  },
+  {
+    "mutation": "T111L",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "L"
+  },
+  {
+    "mutation": "T111M",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "M"
+  },
+  {
+    "mutation": "T111N",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "N"
+  },
+  {
+    "mutation": "T111P",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "P"
+  },
+  {
+    "mutation": "T111Q",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "T111R",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "R"
+  },
+  {
+    "mutation": "T111S",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "S"
+  },
+  {
+    "mutation": "T111V",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "V"
+  },
+  {
+    "mutation": "T111W",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "W"
+  },
+  {
+    "mutation": "T111Y",
+    "position": 111,
+    "wild_type": "T",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "T121A",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "A"
+  },
+  {
+    "mutation": "T121C",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "C"
+  },
+  {
+    "mutation": "T121D",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "D"
+  },
+  {
+    "mutation": "T121E",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "E"
+  },
+  {
+    "mutation": "T121F",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "F"
+  },
+  {
+    "mutation": "T121G",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "G"
+  },
+  {
+    "mutation": "T121H",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "H"
+  },
+  {
+    "mutation": "T121I",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "I"
+  },
+  {
+    "mutation": "T121K",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "K"
+  },
+  {
+    "mutation": "T121L",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "L"
+  },
+  {
+    "mutation": "T121M",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "M"
+  },
+  {
+    "mutation": "T121N",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "N"
+  },
+  {
+    "mutation": "T121P",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "P"
+  },
+  {
+    "mutation": "T121Q",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "T121R",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "R"
+  },
+  {
+    "mutation": "T121S",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "S"
+  },
+  {
+    "mutation": "T121V",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "V"
+  },
+  {
+    "mutation": "T121W",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "W"
+  },
+  {
+    "mutation": "T121Y",
+    "position": 121,
+    "wild_type": "T",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "F123A",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "A"
+  },
+  {
+    "mutation": "F123C",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "C"
+  },
+  {
+    "mutation": "F123D",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "D"
+  },
+  {
+    "mutation": "F123E",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "E"
+  },
+  {
+    "mutation": "F123G",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "G"
+  },
+  {
+    "mutation": "F123H",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "H"
+  },
+  {
+    "mutation": "F123I",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "I"
+  },
+  {
+    "mutation": "F123K",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "K"
+  },
+  {
+    "mutation": "F123L",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "L"
+  },
+  {
+    "mutation": "F123M",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "M"
+  },
+  {
+    "mutation": "F123N",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "N"
+  },
+  {
+    "mutation": "F123P",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "P"
+  },
+  {
+    "mutation": "F123Q",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "F123R",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "R"
+  },
+  {
+    "mutation": "F123S",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "S"
+  },
+  {
+    "mutation": "F123T",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "T"
+  },
+  {
+    "mutation": "F123V",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "V"
+  },
+  {
+    "mutation": "F123W",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "W"
+  },
+  {
+    "mutation": "F123Y",
+    "position": 123,
+    "wild_type": "F",
+    "mutated": "Y"
+  },
+  {
+    "mutation": "P124A",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "A"
+  },
+  {
+    "mutation": "P124C",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "C"
+  },
+  {
+    "mutation": "P124D",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "D"
+  },
+  {
+    "mutation": "P124E",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "E"
+  },
+  {
+    "mutation": "P124F",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "F"
+  },
+  {
+    "mutation": "P124G",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "G"
+  },
+  {
+    "mutation": "P124H",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "H"
+  },
+  {
+    "mutation": "P124I",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "I"
+  },
+  {
+    "mutation": "P124K",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "K"
+  },
+  {
+    "mutation": "P124L",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "L"
+  },
+  {
+    "mutation": "P124M",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "M"
+  },
+  {
+    "mutation": "P124N",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "N"
+  },
+  {
+    "mutation": "P124Q",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "Q"
+  },
+  {
+    "mutation": "P124R",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "R"
+  },
+  {
+    "mutation": "P124S",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "S"
+  },
+  {
+    "mutation": "P124T",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "T"
+  },
+  {
+    "mutation": "P124V",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "V"
+  },
+  {
+    "mutation": "P124W",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "W"
+  },
+  {
+    "mutation": "P124Y",
+    "position": 124,
+    "wild_type": "P",
+    "mutated": "Y"
+  }
+]

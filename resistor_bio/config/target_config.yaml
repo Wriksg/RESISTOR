@@ -1,0 +1,6 @@
+target_name: "Staphylococcus aureus DHFR"
+pdb_id: "2w9g"
+drug_name: "Trimethoprim"
+known_resistance_mutation: "F98Y"
+binding_site_residues: [5, 20, 27, 46, 54, 92, 94, 98]
+distance_cutoff_angstroms: 8.0

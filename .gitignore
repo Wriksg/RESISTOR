@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+*.pth
+
+resistor_bio/data/processed/mutated_structures/
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
