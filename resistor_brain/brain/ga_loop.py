@@ -1,32 +1,34 @@
 import random
+import json
+import os
+import sys
 from typing import List, Tuple
+
+# --- Add project root to python path to fix ModuleNotFoundError ---
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+
+from resistor_brain.brain.gnn_scorer import get_scorer
+from resistor_brain.brain.physics_penalty import calculate_fitness
 
 AMINO_ACIDS = "ACDEFGHIKLMNPQRSTVWY"
 
-# --- DUMMY CONFIG FOR PART 3 ---
-class DummyConfig:
+class GAConfig:
     def __init__(self):
-        self.population_size = 15
-        self.mutation_rate = 0.2
-        self.crossover_rate = 0.7
-
-# --- DUMMY SCORER FOR PART 3 ---
-def dummy_fitness_scorer(sequence: str) -> float:
-    """
-    FAKE SCORER: Returns a random score between 0 and 1.
-    In Part 8, we will replace this with your real GNN scoring the structural graph!
-    """
-    return random.uniform(0.0, 1.0)
+        self.population_size = 50
+        self.mutation_rate = 0.3
+        self.crossover_rate = 0.5
+        self.generations = 15
 
 class GeneticAlgorithm:
-    def __init__(self, config, target_positions: List[int]):
+    def __init__(self, config, target_positions: List[int], wild_type: str):
         self.config = config
         self.target_positions = target_positions
+        self.wild_type = wild_type
 
-    def initialize_population(self, wild_type: str) -> List[str]:
-        population = [wild_type]
+    def initialize_population(self) -> List[str]:
+        population = [self.wild_type]
         for _ in range(self.config.population_size - 1):
-            population.append(self.mutate(wild_type, force=True))
+            population.append(self.mutate(self.wild_type, force=True))
         return population
 
     def mutate(self, sequence: str, force: bool = False) -> str:
@@ -34,9 +36,8 @@ class GeneticAlgorithm:
             return sequence
             
         seq_list = list(sequence)
-        # Select 1-based biological position
         bio_pos = random.choice(self.target_positions)
-        idx = bio_pos - 1 # Convert to 0-based array index
+        idx = bio_pos - 1 
         
         new_aa = random.choice(AMINO_ACIDS)
         while new_aa == seq_list[idx]:
@@ -51,7 +52,7 @@ class GeneticAlgorithm:
             
         child_list = list(parent1)
         for bio_pos in self.target_positions:
-            idx = bio_pos - 1  # Convert to 0-based array index
+            idx = bio_pos - 1 
             if random.random() > 0.5:
                 child_list[idx] = parent2[idx]
                 
@@ -66,31 +67,25 @@ class GeneticAlgorithm:
         penalized = []
         for seq, score in pop_with_scores:
             if seq in seen:
-                score -= 5.0
+                score -= 1.0 
             else:
                 seen.add(seq)
             penalized.append((seq, score))
         return penalized
 
-    # --- REMOVED ESM2 AND PHYSICS FILTER FOR RESISTOR ---
-    def evolve_one_generation(self, current_population: List[str]) -> Tuple[List[str], float]:
-        # Score using the dummy scorer
+    def evolve_one_generation(self, current_population: List[str]) -> List[str]:
+        scorer = get_scorer()
         pop_with_scores = []
+        
         for seq in current_population:
-            final_score = dummy_fitness_scorer(seq)
+            final_score = scorer.score_sequence(seq)
             pop_with_scores.append((seq, final_score))
 
-        # Diversity penalty
         pop_with_scores = self.apply_diversity_penalty(pop_with_scores)
 
-        # Sort to find the best score easily
-        pop_with_scores.sort(key=lambda x: x[1], reverse=True)
-        best_score = pop_with_scores[0][1]
+        best_candidate = max(pop_with_scores, key=lambda x: x[1])[0]
+        new_population = [best_candidate]
 
-        # Elitism
-        new_population = [pop_with_scores[0][0]]
-
-        # Fill generation
         while len(new_population) < self.config.population_size:
             p1 = self.tournament_selection(pop_with_scores)
             p2 = self.tournament_selection(pop_with_scores)
@@ -98,25 +93,71 @@ class GeneticAlgorithm:
             child = self.mutate(child)
             new_population.append(child)
 
-        return new_population, best_score
+        return new_population, pop_with_scores
 
+
+# ==========================================
+# EXECUTION BLOCK (Run this file to test)
+# ==========================================
 if __name__ == "__main__":
-    print("\n--- RESISTOR: GA Loop (AETHER Port) ---")
-    config = DummyConfig()
+    THREE_TO_ONE = {
+        'ALA': 'A', 'ARG': 'R', 'ASN': 'N', 'ASP': 'D', 'CYS': 'C',
+        'GLU': 'E', 'GLN': 'Q', 'GLY': 'G', 'HIS': 'H', 'ILE': 'I',
+        'LEU': 'L', 'LYS': 'K', 'MET': 'M', 'PHE': 'F', 'PRO': 'P',
+        'SER': 'S', 'THR': 'T', 'TRP': 'W', 'TYR': 'Y', 'VAL': 'V'
+    }
+
+    print("--- RESISTOR: Initializing Genetic Algorithm ---")
     
-    # We use the binding pocket residues from Part 1 as our target positions!
-    target_positions = [5, 20, 27, 46, 54, 92, 94, 98]
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    graph_path = os.path.join(base_dir, '../../resistor_bio/data/processed/residue_contact_graph.json')
     
-    # A fake 157-length protein (just to test the math, since DHFR is 157 aa long)
-    wild_type_seq = "A" * 157  
+    with open(graph_path, 'r') as f:
+        nodes = json.load(f)['nodes']
     
-    ga = GeneticAlgorithm(config, target_positions)
-    population = ga.initialize_population(wild_type_seq)
+    wild_type_seq = "".join([THREE_TO_ONE.get(n['name'], n['name']) for n in nodes])
+    print(f"[INFO] Loaded Wild-Type Sequence (Length: {len(wild_type_seq)})")
     
-    generations = 10
-    print("Starting Evolutionary Search (Dummy Scorer)...")
-    for gen in range(generations):
-        population, best_score = ga.evolve_one_generation(population)
-        print(f"Generation {gen+1}/{generations} | Best Fitness: {best_score:.4f}")
+    pocket_positions = [5, 20, 27, 46, 54, 92, 94, 98]
+    
+    config = GAConfig()
+    ga = GeneticAlgorithm(config, pocket_positions, wild_type_seq)
+    
+    population = ga.initialize_population()
+    
+    print("\n[INFO] Starting Evolution...")
+    
+    all_seen_candidates = {} 
+    
+    for gen in range(config.generations):
+        population, pop_scores = ga.evolve_one_generation(population)
         
-    print("\n[SUCCESS] GA Loop ported successfully!")
+        scorer = get_scorer()
+        for seq in population:
+            if seq not in all_seen_candidates:
+                all_seen_candidates[seq] = scorer.score_sequence(seq)
+                
+        gen_best_seq, gen_best_score = max(pop_scores, key=lambda x: x[1])
+        print(f"Generation {gen+1:02d} | Best Fitness: {gen_best_score:.4f}")
+
+    print("\n--- EVOLUTION COMPLETE ---")
+    
+    # Sort by true fitness
+    ranked_candidates = sorted(all_seen_candidates.items(), key=lambda x: x[1], reverse=True)
+    
+    print("\n🏆 TOP 10 DISCOVERED MUTATIONS:")
+    print("--------------------------------------------------")
+    for i in range(min(10, len(ranked_candidates))):
+        seq, score = ranked_candidates[i]
+        
+        # Build mutation string to handle both single and multi mutations
+        muts = []
+        for idx, (wt, mut) in enumerate(zip(wild_type_seq, seq)):
+            if wt != mut:
+                muts.append(f"{wt}{idx+1}{mut}")
+                
+        mut_str = " + ".join(muts) if muts else "WT"
+        
+        # Highlight F98Y specifically
+        flag = "  <-- KNOWN RESISTANCE TARGET" if "F98Y" in mut_str else ""
+        print(f"Rank {i+1:02d} | Mutation: {mut_str.ljust(15)} | Fitness: {score:.4f}{flag}")
