@@ -107,6 +107,29 @@ class GNNScorer:
         complexity_penalty = max(0, len(mutations) - 1) * 0.2
             
         return base_fitness - penalty - complexity_penalty
+
+    def score_batch(self, candidate_list):
+        """
+        API Contract for GPU Benchmarking (Part 10).
+        Accepts a list of dicts: [{'position': 46, 'mutated_aa': 'Q'}, ...]
+        Returns a list of dicts: [{'binding_delta': float, 'stability_delta': float}, ...]
+        """
+        batch_results = []
+        
+        for cand in candidate_list:
+            # Convert 1-based biological position to 0-based array index
+            node_idx = cand['position'] - 1
+            mut_aa = cand['mutated_aa']
+            
+            b_delta, s_delta = self.score_mutation(node_idx, mut_aa)
+            
+            batch_results.append({
+                'binding_delta': b_delta,
+                'stability_delta': s_delta
+            })
+            
+        return batch_results
+
 # Singleton Instance Loader
 _scorer_instance = None
 def get_scorer():
