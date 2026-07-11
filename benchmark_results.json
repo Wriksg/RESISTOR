@@ -1,0 +1,6 @@
+{
+    "gpu_seconds": 8.3553,
+    "cpu_seconds": 7.153,
+    "speedup_multiplier": 0.86,
+    "notes": "GPU overhead due to sequential PCIe transfer (batching loop). Ready for PyTorch Geometric Batch.from_data_list optimization."
+}
