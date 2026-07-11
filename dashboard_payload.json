@@ -1,0 +1,136 @@
+{
+    "target": "S. aureus DHFR (2w9g)",
+    "top_mutations": [
+        {
+            "mutation": "T46Q",
+            "position": 46,
+            "binding_delta": -1.3337,
+            "stability_delta": -0.5043,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "radical",
+                "matches_known_resistance": false
+            },
+            "reasoning": "T46Q is located directly inside the active binding pocket. This is a radical substitution that causes a significant predicted disruption to drug binding (\u0394 -1.3337) while maintaining excellent protein stability (\u0394 -0.5043).",
+            "rank": 1
+        },
+        {
+            "mutation": "D27E",
+            "position": 27,
+            "binding_delta": -2.9941,
+            "stability_delta": -0.5261,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "D27E is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -2.9941) while maintaining excellent protein stability (\u0394 -0.5261).",
+            "rank": 2
+        },
+        {
+            "mutation": "T46S",
+            "position": 46,
+            "binding_delta": -1.5064,
+            "stability_delta": -0.5571,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "T46S is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5064) while maintaining excellent protein stability (\u0394 -0.5571).",
+            "rank": 3
+        },
+        {
+            "mutation": "F98Y",
+            "position": 98,
+            "binding_delta": -1.0458,
+            "stability_delta": -0.5786,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": true
+            },
+            "reasoning": "F98Y is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.0458) while maintaining excellent protein stability (\u0394 -0.5786). CRITICAL FLAG: This mutation perfectly matches a known, published clinical resistance mutation in S. aureus DHFR.",
+            "rank": 4
+        },
+        {
+            "mutation": "F92W",
+            "position": 92,
+            "binding_delta": -1.442,
+            "stability_delta": -0.5901,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "F92W is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.442) while maintaining excellent protein stability (\u0394 -0.5901).",
+            "rank": 5
+        },
+        {
+            "mutation": "L54M",
+            "position": 54,
+            "binding_delta": -1.5097,
+            "stability_delta": -0.6031,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "L54M is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5097) with a moderate cost to protein stability (\u0394 -0.6031).",
+            "rank": 6
+        },
+        {
+            "mutation": "L54I",
+            "position": 54,
+            "binding_delta": -1.5867,
+            "stability_delta": -0.6138,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "L54I is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5867) with a moderate cost to protein stability (\u0394 -0.6138).",
+            "rank": 7
+        },
+        {
+            "mutation": "T46N",
+            "position": 46,
+            "binding_delta": -1.5591,
+            "stability_delta": -0.6332,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "radical",
+                "matches_known_resistance": false
+            },
+            "reasoning": "T46N is located directly inside the active binding pocket. This is a radical substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5591) with a moderate cost to protein stability (\u0394 -0.6332).",
+            "rank": 8
+        },
+        {
+            "mutation": "L20V",
+            "position": 20,
+            "binding_delta": -1.5593,
+            "stability_delta": -0.6732,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "L20V is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5593) with a moderate cost to protein stability (\u0394 -0.6732).",
+            "rank": 9
+        },
+        {
+            "mutation": "L54V",
+            "position": 54,
+            "binding_delta": -1.5594,
+            "stability_delta": -0.6734,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "L54V is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5594) with a moderate cost to protein stability (\u0394 -0.6734).",
+            "rank": 10
+        }
+    ],
+    "executive_summary": "The current landscape of Staphylococcus aureus dihydrofolate reductase (DHFR) resistance includes several well\u2011characterized mutations that compromise trimethoprim efficacy, yet none of the variants identified in the present GNN analysis have been reported in clinical isolates to date. Consequently, there is no established clinical threat associated with these specific substitutions, but their emergence would represent a novel resistance mechanism.\n\nAmong the three candidate mutations, T46Q (Rank\u202f1) presents the greatest potential risk. It exhibits the most pronounced binding disruption (\u0394\u202f=\u202f\u20111.3337\u202fkcal\u202fmol\u207b\u00b9) while maintaining protein stability within the acceptable threshold (\u0394\u202f=\u202f\u20110.5043, >\u202f\u20111.0). This combination of high drug\u2011binding perturbation and retained enzymatic fitness positions T46Q as the most dangerous novel threat, surpassing the conservative D27E and T46S variants in both potency and survivability.\n\nContinued surveillance for the T46Q substitution in clinical and environmental S.\u202faureus isolates is recommended. Early detection will enable proactive mitigation strategies, including the design of next\u2011generation DHFR inhibitors that accommodate this radical side\u2011chain change without compromising potency."
+}
