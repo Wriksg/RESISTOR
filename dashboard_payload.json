@@ -2,6 +2,19 @@
     "target": "S. aureus DHFR (2w9g)",
     "top_mutations": [
         {
+            "mutation": "T46Q",
+            "position": 46,
+            "binding_delta": -1.3337,
+            "stability_delta": -0.5043,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "radical",
+                "matches_known_resistance": false
+            },
+            "reasoning": "T46Q is located directly inside the active binding pocket. This is a radical substitution that causes a significant predicted disruption to drug binding (\u0394 -1.3337) while maintaining excellent protein stability (\u0394 -0.5043).",
+            "rank": 1
+        },
+        {
             "mutation": "D27E",
             "position": 27,
             "binding_delta": -2.9941,
@@ -12,7 +25,7 @@
                 "matches_known_resistance": false
             },
             "reasoning": "D27E is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -2.9941) while maintaining excellent protein stability (\u0394 -0.5261).",
-            "rank": 1
+            "rank": 2
         },
         {
             "mutation": "T46S",
@@ -25,7 +38,7 @@
                 "matches_known_resistance": false
             },
             "reasoning": "T46S is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5064) while maintaining excellent protein stability (\u0394 -0.5571).",
-            "rank": 2
+            "rank": 3
         },
         {
             "mutation": "F98Y",
@@ -38,33 +51,7 @@
                 "matches_known_resistance": true
             },
             "reasoning": "F98Y is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.0458) while maintaining excellent protein stability (\u0394 -0.5786). CRITICAL FLAG: This mutation perfectly matches a known, published clinical resistance mutation in S. aureus DHFR.",
-            "rank": 3
-        },
-        {
-            "mutation": "F92Y",
-            "position": 92,
-            "binding_delta": -1.0458,
-            "stability_delta": -0.5786,
-            "attribution": {
-                "structural_context": "binding_pocket",
-                "substitution_severity": "conservative",
-                "matches_known_resistance": false
-            },
-            "reasoning": "F92Y is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.0458) while maintaining excellent protein stability (\u0394 -0.5786).",
             "rank": 4
-        },
-        {
-            "mutation": "F92W",
-            "position": 92,
-            "binding_delta": -1.442,
-            "stability_delta": -0.5901,
-            "attribution": {
-                "structural_context": "binding_pocket",
-                "substitution_severity": "conservative",
-                "matches_known_resistance": false
-            },
-            "reasoning": "F92W is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.442) while maintaining excellent protein stability (\u0394 -0.5901).",
-            "rank": 5
         },
         {
             "mutation": "F98W",
@@ -77,33 +64,33 @@
                 "matches_known_resistance": false
             },
             "reasoning": "F98W is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.442) while maintaining excellent protein stability (\u0394 -0.5901).",
+            "rank": 5
+        },
+        {
+            "mutation": "L54M",
+            "position": 54,
+            "binding_delta": -1.5097,
+            "stability_delta": -0.6031,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "L54M is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5097) with a moderate cost to protein stability (\u0394 -0.6031).",
             "rank": 6
         },
         {
-            "mutation": "L5M",
-            "position": 5,
-            "binding_delta": -1.5098,
-            "stability_delta": -0.6034,
+            "mutation": "L20I",
+            "position": 20,
+            "binding_delta": -1.5868,
+            "stability_delta": -0.6139,
             "attribution": {
                 "structural_context": "binding_pocket",
                 "substitution_severity": "conservative",
                 "matches_known_resistance": false
             },
-            "reasoning": "L5M is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5098) with a moderate cost to protein stability (\u0394 -0.6034).",
+            "reasoning": "L20I is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5868) with a moderate cost to protein stability (\u0394 -0.6139).",
             "rank": 7
-        },
-        {
-            "mutation": "L54I",
-            "position": 54,
-            "binding_delta": -1.5867,
-            "stability_delta": -0.6138,
-            "attribution": {
-                "structural_context": "binding_pocket",
-                "substitution_severity": "conservative",
-                "matches_known_resistance": false
-            },
-            "reasoning": "L54I is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5867) with a moderate cost to protein stability (\u0394 -0.6138).",
-            "rank": 8
         },
         {
             "mutation": "T46N",
@@ -116,6 +103,19 @@
                 "matches_known_resistance": false
             },
             "reasoning": "T46N is located directly inside the active binding pocket. This is a radical substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5591) with a moderate cost to protein stability (\u0394 -0.6332).",
+            "rank": 8
+        },
+        {
+            "mutation": "L54V",
+            "position": 54,
+            "binding_delta": -1.5594,
+            "stability_delta": -0.6734,
+            "attribution": {
+                "structural_context": "binding_pocket",
+                "substitution_severity": "conservative",
+                "matches_known_resistance": false
+            },
+            "reasoning": "L54V is located directly inside the active binding pocket. This is a conservative substitution that causes a significant predicted disruption to drug binding (\u0394 -1.5594) with a moderate cost to protein stability (\u0394 -0.6734).",
             "rank": 9
         },
         {
@@ -132,5 +132,5 @@
             "rank": 10
         }
     ],
-    "executive_summary": "The GNN analysis confirms that the F98Y substitution, previously reported in clinical isolates of Staphylococcus aureus, remains a validated resistance mechanism against current dihydrofolate reductase (DHFR) inhibitors. Its binding disruption (\u0394\u202f=\u202f\u20111.0458\u202fkcal/mol) coupled with acceptable protein stability (\u0394\u202f=\u202f\u20110.5786) aligns with observed therapeutic failures and underscores the continued relevance of this mutation in the resistance landscape.\n\nAmong the novel predictions, the D27E mutation emerges as the most concerning candidate. It exhibits the greatest predicted drug\u2011binding perturbation (\u0394\u202f=\u202f\u20112.9941\u202fkcal/mol) while maintaining protein stability within the survivability threshold (\u0394\u202f=\u202f\u20110.5261). The combination of high binding disruption and modest destabilization suggests D27E could confer a potent resistance phenotype without compromising bacterial fitness, representing a priority target for prospective surveillance and inhibitor redesign.\n\nOverall, the data indicate that while established resistance (F98Y) persists, the D27E variant poses the highest emergent risk based on the current binding/stability trade\u2011off. Continuous monitoring of D27E frequency in clinical isolates and pre\u2011emptive optimization of DHFR inhibitors to accommodate this substitution are recommended to mitigate future therapeutic compromise."
+    "executive_summary": "The current landscape of Staphylococcus aureus dihydrofolate reductase (DHFR) resistance does not yet include the specific variants identified in our computational screen. Existing clinical data continue to focus on well\u2011characterized mutations such as F98Y and H30N, which have been linked to reduced susceptibility to trimethoprim\u2011based therapies. No reports to date describe the emergence of T46Q, D27E, or T46S in patient isolates, indicating that these alterations represent novel, pre\u2011clinical threats.\n\nAmong the three candidates, the D27E substitution presents the greatest potential risk. It exhibits the most pronounced binding disruption (\u0394Binding\u202f=\u202f\u20112.9941\u202fkcal\u202fmol\u207b\u00b9), indicating a strong capacity to diminish drug affinity, while maintaining a stability penalty (\u0394Stability\u202f=\u202f\u20110.5261) well above the viability threshold of \u20111.0. This favorable balance of functional impairment and protein fitness suggests D27E could be readily selected under therapeutic pressure and may evolve into a clinically relevant resistance mechanism.\n\nContinued surveillance for the D27E mutation in clinical isolates, coupled with prospective phenotypic validation, is recommended to pre\u2011emptively address this emerging risk. Integration of these findings into our resistance\u2011monitoring pipeline will support timely adaptation of drug design and stewardship strategies."
 }
