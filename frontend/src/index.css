@@ -1,0 +1,32 @@
+/* 1. The NEW Tailwind v4 import */
+@import "tailwindcss";
+
+/* 2. Tell v4 to load our custom colors from the config file */
+@config "../tailwind.config.js";
+
+/* 3. Pure CSS for the global layout (bypasses v4 @apply strictness) */
+body {
+  background-color: #0B0F19; /* Obsidian */
+  color: #e2e8f0; /* Slate-200 */
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: rgba(0, 242, 254, 0.3); /* neonCyan/30 */
+}
+
+/* Elite 2026 Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(51, 65, 85, 0.5); /* slate-700/50 */
+  border-radius: 9999px;
+  transition: background-color 0.3s;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(0, 242, 254, 0.5); /* neonCyan/50 */
+}
